@@ -36,6 +36,7 @@
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 | 佛教大师.skills | 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴 | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
+| 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill.git) |
 
 ---
 
