@@ -26,7 +26,7 @@
 | 数字人生.skill | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 重逢.skill | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
 | 永生.skill | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
-
+| 巴菲特.skill | [will2025btc/buffett-perspective](https://github.com/will2025btc/buffett-perspective) |
 ---
 
 ## 🧠 一句话哲学
