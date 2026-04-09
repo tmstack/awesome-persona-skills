@@ -43,7 +43,7 @@
 | 永生.skill | 不蒸馒头争口气！顺便还能蒸馏下身边的人 | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 | 韭菜.skill | 如果再给我一次机会，我一定会在赚钱的时候卖掉 | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
-### 💡 商业思维与名人智慧
+### 💡 商业思维与网络名人
 
 | 人物角色 | 介绍 | 仓库 |
 |------|------|------|
