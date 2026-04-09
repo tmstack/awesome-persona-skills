@@ -1,4 +1,6 @@
-# 各种可以蒸馏的skill
+# Awesome Persona Skills
+
+## 各种可以蒸馏的skill
 >想体验被蒸馏的感觉吗？与其让别人蒸馏自己，不如抢先一步蒸馏别人
 
 [English](./README_EN.md) | 简体中文
