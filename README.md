@@ -41,6 +41,7 @@
 | 自己.skill | 与其蒸馏别人，不如蒸馏自己 | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) |
 | 数字人生.skill | 你不是被数据定义的人。但你会被自己反复留下的痕迹，慢慢塑形 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | 永生.skill | 不蒸馒头争口气！顺便还能蒸馏下身边的人 | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
+| Relic.skill | 万物皆可 Relic — 不只蒸馏人，宠物、关系、地方、团队、时刻都能永生 | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | 韭菜.skill | 如果再给我一次机会，我一定会在赚钱的时候卖掉 | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
 ### 💡 商业思维与网络名人

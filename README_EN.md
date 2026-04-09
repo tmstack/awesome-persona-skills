@@ -41,6 +41,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Yourself.skill | Instead of distilling others, why not distill yourself | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) |
 | DigitalLife.skill | You are not defined by data. But you are slowly shaped by the traces you leave behind | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
 | Immortal.skill | Don't just steam buns to prove a point! While you're at it, distill the people around you too | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
+| Relic.skill | Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
 ### 💡 Business Mindset and Internet Celebrities
