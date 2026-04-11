@@ -108,6 +108,7 @@
 - [博主.skill](https://github.com/YourongZhou/chat_with_me) - 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill
 - [图鉴.skill](https://github.com/Aar0nPB/curator-skill) - 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
+- [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
 
 
 ---

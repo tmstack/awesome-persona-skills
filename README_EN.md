@@ -105,6 +105,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Blogger.skill](https://github.com/YourongZhou/chat_with_me) - Organize public social media posts into a conversational, analytical, style-rewritable Persona Skill
 - [Curator.skill](https://github.com/Aar0nPB/curator-skill) - Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
+- [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
 
 ---
 
