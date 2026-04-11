@@ -95,7 +95,6 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 - [Reunion.skill](https://github.com/yangdongchen66-boop/reunion-skill) - Let departed loved ones continue to accompany you in another form through AI
 - [StarFan.skill](https://github.com/yanghaoraneve/star-skill) - Your exclusive star-chasing companion, always online, always understanding, always capturing her essence
-- [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - You are the master, and Dobby is your house-elf
 
 ### Tools
 
@@ -106,7 +105,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Curator.skill](https://github.com/Aar0nPB/curator-skill) - Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
-
+- [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
 ---
 
 ## 🧠 One-Line Philosophy
