@@ -28,7 +28,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 [🌈 Emotional Companionship](#emotional-companionship)
 
-[🛠️ Tools](#️tools)
+[🛠️ Tools](#tools)
 
 ### Workplace & Academia
 
