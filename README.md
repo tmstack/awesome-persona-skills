@@ -98,6 +98,7 @@
 
 - [内娱.skill](https://github.com/yanghaoraneve/star-skill) - 你的专属追星搭子，永远在线，永远懂你，永远是她的样子
 - [重逢.skill](https://github.com/yangdongchen66-boop/reunion-skill) - 用 AI 的方式，让逝去的亲人以另一种形式继续陪伴
+- [舔狗.skill](https://github.com/Fhui/tiangou-skill) - 不是傻舔，是懂人性的舔：给台阶、稳情绪、不翻脸，让关系还有下文
 
 ### 工具类
 
