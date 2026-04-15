@@ -96,6 +96,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 - [Reunion.skill](https://github.com/yangdongchen66-boop/reunion-skill) - Let departed loved ones continue to accompany you in another form through AI
 - [StarFan.skill](https://github.com/yanghaoraneve/star-skill) - Your exclusive star-chasing companion, always online, always understanding, always capturing her essence
+- [Tiangou.skill](https://github.com/Fhui/tiangou-skill) - Not mindless simping, but emotionally intelligent devotion: offer an out, steady the mood, keep things civil, and leave room for the relationship to continue
 
 ### Tools
 
