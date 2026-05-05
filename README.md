@@ -114,6 +114,7 @@
 - [SBTI.Skill](https://github.com/whu125/sbti-skill) - 一套把 SBTI 人格原型打包成 Agent Skill 的生成器
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
 - [多比.skill](https://github.com/LittleLittleCloud/Dobby) - 一个教AI如何使唤人类多比的skill
+- [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 - [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
 - [达尔文.skill](https://github.com/alchaincyf/darwin-skill) - 像训练模型一样优化你的 Agent Skills
 - [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill

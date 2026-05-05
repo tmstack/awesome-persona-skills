@@ -112,6 +112,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 - [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) - An SEO writing skill that turns keywords into blog posts, landing pages, and content rewrites
 - [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - A skill to teach AI how to use human as DOBBY.
+- [DAK News.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) - News archive skill designed for AI, covering 30+ sources and updating every 30 minutes for searching, browsing, and structured news analysis
 - [Skill_Everyone.skill](https://github.com/MIMIFY/skill_everyone) - Novels, games, anime, films, your own OC — auto-research or manual feed + psychological modeling, let them speak and stay with you.
 - [Darwin.skill](https://github.com/alchaincyf/darwin-skill) - Optimize your Agent Skills the way you train models
 - [BloggerDistiller.skill](https://github.com/otter1101/blogger-distiller) - Not relying on feeding, but taking the initiative — automatically crawl all notes from any Xiaohongshu blogger and distill a directly installable creation guide Skill.
