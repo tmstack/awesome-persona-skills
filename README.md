@@ -93,7 +93,7 @@
 - [金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) - 凡所有相，皆是虚妄。若见诸相非相，即见如来
 - [毛选.skill](https://github.com/leezythu/maoxuan-skill) - 让毛选的思维框架帮你分析问题、制定策略、看透本质
 - [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) - 新青年来中国是能解决问题，会解决问题的
-
+- [奇门遁甲.skill](https://github.com/SerinaRica/qimen.skill) - 融汇天时、地利、人和与神助，运用古代“帝王之学”为你排盘推演
 
 ### 情感陪伴
 
