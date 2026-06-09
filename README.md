@@ -88,7 +88,7 @@
 - [凉兮 skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达
 - [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [黑鸦.skill](https://github.com/ChouChiu/heya.skill) - 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。
-
+- [勇哥.skill](https://github.com/qq6690876/yongge-perspective) - 抖音/哔哩哔哩餐饮创业咨询类博主 勇哥餐饮创业说(孙继勇)的思维操作系统 — 6 个核心心智模型 + 8 条决策启发式
 
 ### 传统文化与哲学
 
