@@ -141,3 +141,7 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tmstack/awesome-persona-skills&type=Date)](https://star-history.com/#tmstack/awesome-persona-skills&Date)
+
+
+## Related Resources
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
