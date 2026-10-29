@@ -81,6 +81,7 @@
 - [峰哥.skill](https://github.com/Walshyu/fengge-skill) - B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统
 - [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心
 - [风骚律师.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - 《风骚律师》/ Better Call Saul 中 Saul Goodman / Jimmy McGill / 索尔古德曼的角色蒸馏 skill：谈判、说服、找角度与表达 DNA
+- [SPECTER](https://github.com/YannisKiefer/harvey-specter) - 受 Harvey Specter 启发的谈判与职场沟通技能，依据事实、关系与压力选择应对方式
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 教育/职业规划/阶层流动
 - [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展
 - [凉兮.skills](https://github.com/1sh1ro/liangxi-skills) - 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达

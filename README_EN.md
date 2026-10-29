@@ -78,6 +78,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [GuoDegang.skill](https://github.com/ByteRax/guodegang-skills) - If the world and my elders can tolerate me, I won't make ill-gotten money
 - [FengGe.skill](https://github.com/Walshyu/fengge-skill) - Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system
 - [Saul Goodman.skill](https://github.com/YeJe-cpu/saul-goodman-skill) - A distilled Saul Goodman / Jimmy McGill skill from Better Call Saul: negotiation, persuasion, angle-finding, and expression DNA
+- [SPECTER](https://github.com/YannisKiefer/harvey-specter) - Harvey Specter-inspired negotiation and workplace communication, adapting the response to facts, relationships, and pressure
 - [ZhangXuefeng.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - Education/Career Planning/Social Mobility
 - [HuChenfeng.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development
 - [Liangxi.skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
